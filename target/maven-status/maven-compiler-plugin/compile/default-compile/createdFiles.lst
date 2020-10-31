@@ -1,0 +1,10 @@
+com/covid/domain/SampleEntity.class
+com/covid/domain/SampleRepository.class
+com/covid/domain/SampleEntity$SampleEntityBuilder.class
+com/covid/dto/SampleDto.class
+com/covid/controller/SpecimenController.class
+com/covid/service/TestService.class
+com/covid/controller/EpiController.class
+com/covid/Application.class
+com/covid/controller/ApiController.class
+com/covid/service/CovidService.class
